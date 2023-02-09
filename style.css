@@ -1,0 +1,10 @@
+.mar{
+    margin: 10px;
+}
+.mar-right{
+    margin-right: 15px;
+    border: 1px solid black;
+}
+body{
+    background-color: rgb(204, 227, 220);
+}
